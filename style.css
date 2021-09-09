@@ -34,6 +34,20 @@ body{
     FONT-SIZE: 3REM;
     text-align: center;
 }
+/* barra numerica */
+.number{
+    width: 10rem;
+    background-color: green;
+    height: 3rem;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: 100;
+}
+nav div{
+    width: 3rem;
+    float: left;
+}
 /* utility */
 .red{
     background-color: red;
